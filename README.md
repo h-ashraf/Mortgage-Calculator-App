@@ -14,10 +14,6 @@ This is a mobile application built using React Native framework, aimed at assist
 - **React Navigation**: Used for handling navigation within the application, providing a smooth and intuitive user experience.
 - **JavaScript**: The primary programming language used for development, ensuring cross-platform compatibility and flexibility.
 
-# Mortgage Calculator App
-
-This is a mobile application built using React Native framework, aimed at assisting users in managing their loan repayment by providing a comprehensive mortgage calculation tool.
-
 ## How to Use
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
